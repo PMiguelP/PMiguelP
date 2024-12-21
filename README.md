@@ -43,16 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PMiguelP/PMiguelP/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PMiguelP.PMiguelP&left_color=aliceblue&right_color=aliceblue"  />
-</div>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
